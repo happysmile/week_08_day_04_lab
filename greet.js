@@ -8,4 +8,8 @@ const helloWorld = (name = "World") => {
 
 const merger = (name = "difficult")=>{
   return `coding is ${name}`;
+
+const say_no() = function {
+  return "hell no!";
+
 }
