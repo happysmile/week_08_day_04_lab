@@ -5,3 +5,7 @@
 const helloWorld = (name = "World") => {
   return `Hello ${name}!`;
 }
+
+const merger = (name = "difficult")=>{
+  return `coding is ${name}`;
+}
